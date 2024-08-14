@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5851546a.css",
+    "main.js": "/static/js/main.1ec84be4.js",
+    "static/media/card5.svg": "/static/media/card5.d6b1779dceea29e96b0156fe82e659c7.svg",
+    "static/media/signup.svg": "/static/media/signup.1aa8c361caaac61983983f930532b35c.svg",
+    "static/media/signin.svg": "/static/media/signin.5e258aa7b50b0e40cf0e4e6e4bfa7ab7.svg",
+    "static/media/card3.svg": "/static/media/card3.6d6923b520a4075559bb8d9a8f977b4c.svg",
+    "static/media/landing-vector.svg": "/static/media/landing-vector.c49a7efabab163bcf3a238c5010af3b5.svg",
+    "static/media/card2.svg": "/static/media/card2.35e3a97c4d142bd3699df097ee3c9c77.svg",
+    "static/media/hero-bg.png": "/static/media/hero-bg.5ef60beb453b6ffc814b.png",
+    "static/media/card4.svg": "/static/media/card4.7b6b291b028b45daaaaf998084fa363c.svg",
+    "static/media/banner-image2.png": "/static/media/banner-image2.c3084dcba880b913dc84.png",
+    "static/media/card1.svg": "/static/media/card1.02c2700b52b5049da183031fe21aa95c.svg",
+    "index.html": "/index.html",
+    "main.5851546a.css.map": "/static/css/main.5851546a.css.map",
+    "main.1ec84be4.js.map": "/static/js/main.1ec84be4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5851546a.css",
+    "static/js/main.1ec84be4.js"
+  ]
+}
